@@ -14,7 +14,7 @@ kotlin / Android Studio / Jetpack Compose / Room <br>
 <br>  
 
 ## 機能一覧
- - 右下の追加ボタンで新規ノートを追加
+ - 右下の作成ボタンで新規ノートを作成
  - ノートの一覧表示
  - ノートを押すと編集可能
  - ノートをローカル保存（Roomを使用）
