@@ -60,3 +60,23 @@ kotlin / Android Studio / Jetpack Compose / Room <br>
  - アニメーションの活用：画面遷移のアニメーションを加えることで、より直感的で快適な操作感を実現できることを学びました。
 <br>  
 
+
+
+ホーム画面
+
+![SimpleNote_6](https://github.com/user-attachments/assets/9f61641c-a90c-48bf-90ee-5a22c02c2b4f)
+
+削除時　
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e142e28-bdc5-4c16-8e47-5ed9b061bb9a" width="300">
+  <img src="https://github.com/user-attachments/assets/561c0f2b-21ee-4167-91f6-a470ee3da5e9" width="300">
+</p>
+
+
+編集・追加画面
+
+![SimpleNote_1](https://github.com/user-attachments/assets/af2b33c2-a717-4af6-8ad9-2bda945a35b3)
+
+
+
+
